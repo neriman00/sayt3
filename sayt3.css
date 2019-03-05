@@ -1,0 +1,18 @@
+.left{
+    width: 50%;
+    float: left;
+    height: 75%;
+    padding-top: 200px;
+    text-align: center;
+}
+.right{
+    float: left;
+    width: 50%;
+    height: 75%;
+    padding-top: 150px;
+    background-color: black;
+}
+.container{
+    width: 280px;
+    margin: 0 auto;
+}
